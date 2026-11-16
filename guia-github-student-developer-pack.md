@@ -191,6 +191,23 @@ Se o problema persistir, consulte a documentação oficial e abra uma discussão
 - [Página de benefícios e verificação (Education benefits)](https://github.com/settings/education/benefits)
 - [FAQ da comunidade: Student Developer Pack Application + Copilot Student FAQs](https://github.com/orgs/community/discussions/111352)
 
+## Equipe
+
+Material do Programa DevOps Azure IFPR, projeto de extensão do IFPR Campus Pinhais.
+
+### Coordenação
+
+- **Profa. Lauriana Paludo** - Coordenadora do Projeto
+  - Email: lauriana.paludo@ifpr.edu.br
+
+### Alunos Participantes
+
+- Renan Oliveira
+- Marcelo
+- Michely
+- Miguel
+- Ciro Guilherme Nass (monitor de Engenharia de Software I)
+
 ---
 
 ### Aviso de atualização

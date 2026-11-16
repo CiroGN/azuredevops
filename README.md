@@ -59,6 +59,11 @@ Nunca usou o VS Code, escreveu um comando SQL, ou mexeu com Git/GitHub? Este gui
 
 Uma página só, com os erros mais frequentes do minicurso (Git, Python, venv, driver ODBC, conexão, coluna errada) e a solução rápida de cada um — para deixar aberto numa aba enquanto você trabalha.
 
+### Referência — Guia GitHub Student Developer Pack
+[Clique aqui](./guia-github-student-developer-pack.md)
+
+Como criar sua conta GitHub, preparar o perfil (2FA, nome, informações de cobrança e e-mail acadêmico `@estudantes.ifpr.edu.br`) e solicitar a verificação de estudante para liberar o GitHub Education e o Student Developer Pack.
+
 ### Complemento — Azure DevOps na Prática (~1h, opcional)
 [Clique aqui](./nivel-1-atividades/azure-devops-na-pratica.md)
 
@@ -89,10 +94,12 @@ Depois (ou junto) das atividades da Parte 2, um mergulho no Azure DevOps como fe
 | Marcelo | [@marcelo](https://github.com/marcelo) |
 | Michely | [@michely](https://github.com/michely) |
 | Miguel | [@miguel](https://github.com/miguel) |
+| Ciro Guilherme Nass (monitor de Engenharia de Software I) | [@CiroGN](https://github.com/CiroGN) |
 
 ### Suporte
 - 🐛 GitHub Issues: [Abrir Issue](../../issues)
 - 💬 Discussions: [Ir para Discussions](../../discussions)
+- 🙋 Monitoria de Engenharia de Software I: [monitoria-es1-ifpr](https://github.com/CiroGN/monitoria-es1-ifpr)
 
 
 ---

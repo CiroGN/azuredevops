@@ -89,10 +89,12 @@ Depois (ou junto) das atividades da Parte 2, um mergulho no Azure DevOps como fe
 | Marcelo | [@marcelo](https://github.com/marcelo) |
 | Michely | [@michely](https://github.com/michely) |
 | Miguel | [@miguel](https://github.com/miguel) |
+| Ciro Guilherme Nass (monitor de Engenharia de Software I) | [@CiroGN](https://github.com/CiroGN) |
 
 ### Suporte
 - 🐛 GitHub Issues: [Abrir Issue](../../issues)
 - 💬 Discussions: [Ir para Discussions](../../discussions)
+- 🙋 Monitoria de Engenharia de Software I: [monitoria-es1-ifpr](https://github.com/CiroGN/monitoria-es1-ifpr)
 
 
 ---

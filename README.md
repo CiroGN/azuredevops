@@ -59,6 +59,11 @@ Nunca usou o VS Code, escreveu um comando SQL, ou mexeu com Git/GitHub? Este gui
 
 Uma página só, com os erros mais frequentes do minicurso (Git, Python, venv, driver ODBC, conexão, coluna errada) e a solução rápida de cada um — para deixar aberto numa aba enquanto você trabalha.
 
+### Referência — Guia GitHub Student Developer Pack
+[Clique aqui](./guia-github-student-developer-pack.md)
+
+Como criar sua conta GitHub, preparar o perfil (2FA, nome, informações de cobrança e e-mail acadêmico `@estudantes.ifpr.edu.br`) e solicitar a verificação de estudante para liberar o GitHub Education e o Student Developer Pack.
+
 ### Complemento — Azure DevOps na Prática (~1h, opcional)
 [Clique aqui](./nivel-1-atividades/azure-devops-na-pratica.md)
 
